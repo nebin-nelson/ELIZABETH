@@ -40,7 +40,7 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 PM_START_TEXT = f"""
 `Hi..Welcome` 👀
-`I'm` [ELIZABETH🍀](https://telegra.ph/file/281aaa468756db0769df0.jpg)
+`I'm` [proghost]("https://telegra.ph/file/44535d9ea90a2cdd0e38a.jpg")
 `I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
 """
 
@@ -53,7 +53,7 @@ buttons += [[InlineKeyboardButton(text="🌍 ADD ME TO YOUR GROUP 🌍",
 ]]
 
 buttons += [[InlineKeyboardButton(text="💾SOURCE CODE",
-                                  url="https://github.com/P-RINC-E/ELIZABETH"),
+                                  url="https://t.me/Ravanan_of_telegram"),
              InlineKeyboardButton(text="🌳SUPPORT",
                                   url="https://t.me/ELIZABETH_SUPPORT"),
 ]]
@@ -63,7 +63,7 @@ buttons += [[InlineKeyboardButton(text="🔒 CLOSE THE MENU 🔒",
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` [ELIZABETH🍀](https://telegra.ph/file/281aaa468756db0769df0.jpg)
+`Hi.. I'm` [proghost](https://telegra.ph/file/44535d9ea90a2cdd0e38a.jpg)
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
