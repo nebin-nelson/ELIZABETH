@@ -53,7 +53,7 @@ buttons += [[InlineKeyboardButton(text="🌍 ADD ME TO YOUR GROUP 🌍",
 ]]
 
 buttons += [[InlineKeyboardButton(text="💾SOURCE CODE",
-                                  url="https://github.com/P-RINC-E/ELIZABETH?"),
+                                  url="https://github.com/nebin-nelson-1995/ELIZABETH"),
              InlineKeyboardButton(text="🌳SUPPORT",
                                   url="https://t.me/ELIZABETH_SUPPORT"),
 ]]
